@@ -1,4 +1,3 @@
-数位板驱动(手绘板驱动)，wintab 8192级压感，TabletDriver通用, 支持windows, mac系统
 ### 特性
 * 支持MacOS 10.8以上系统
 * 支持windows7 以上系统(32位,64位)
@@ -29,7 +28,7 @@
 * PaintToolSai
 * SketchBook 
 * windows lnk(win10)
-![在这里插入图片描述](https://upload-images.jianshu.io/upload_images/4548881-04d91294cded5a50?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191002181033276.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 #### macOS测试列表
 * Artrage_5.0.4 
 * Photoshop_2019
@@ -47,19 +46,19 @@
 ##### 工作区域展示
 * 屏幕标识,可拖动映射区域.数位板旋转等等
 _windows_
-![windows](https://upload-images.jianshu.io/upload_images/4548881-f8db84f0a7d048f0?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![windows](https://img-blog.csdnimg.cn/20191002181137214.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 __macos__
-![mac](https://upload-images.jianshu.io/upload_images/4548881-b636a6dc42cc2d6c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![mac](https://img-blog.csdnimg.cn/20191229012054417.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 ###### 数位笔设置展示
 * 支持笔尖感应设置,笔压设置.
 * 数位板快捷键设置, 特殊快捷键设置.切换屏幕.切换笔刷等功能
 * 多种绘图模式
 __windows__
-![windows](https://upload-images.jianshu.io/upload_images/4548881-fad90f5d5ff26ae3?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![windows](https://upload-images.jianshu.io/upload_images/4548881-5089f50005660565?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![windows](https://img-blog.csdnimg.cn/20191002181145565.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
+![windows](https://img-blog.csdnimg.cn/20191002181151776.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 __macos__
-![macos](https://upload-images.jianshu.io/upload_images/4548881-8c2f83d9f78f946b?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![macos](https://upload-images.jianshu.io/upload_images/4548881-331ec05ed76cc6e7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![macos](https://img-blog.csdnimg.cn/20191229012257258.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
+![macos](https://img-blog.csdnimg.cn/20191229012356879.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 ##### 快捷键界面展示
 * 支持快捷键实时显示
 * 多种组合键设置
@@ -68,9 +67,9 @@ __macos__
 
 
 __windows__
-![windows](https://upload-images.jianshu.io/upload_images/4548881-2df31618f7136036?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![windows](https://img-blog.csdnimg.cn/20191002181204869.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 
-![windows](https://upload-images.jianshu.io/upload_images/4548881-faa830a014b4132f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![windows](https://upload-images.jianshu.io/upload_images/4548881-7b1872d8172bc829.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![windows](https://img-blog.csdnimg.cn/20191002181210662.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
+![windows](https://img-blog.csdnimg.cn/20191002181218612.jpg)
 __macos__
-![mac](https://upload-images.jianshu.io/upload_images/4548881-b3798ef4488f0bf4?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![macos](https://upload-images.jianshu.io/upload_images/4548881-126addf45d3be9f5?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![mac](https://img-blog.csdnimg.cn/20191229012515207.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)![macos](https://img-blog.csdnimg.cn/20191229012622683.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
